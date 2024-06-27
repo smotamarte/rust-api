@@ -1,0 +1,11 @@
+/Users/stevenmota/Sandbox/hello_cargo/target/debug/deps/libtower_layer-a0dfe77caff9f120.rmeta: /Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/lib.rs /Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/identity.rs /Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/layer_fn.rs /Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/stack.rs /Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/tuple.rs
+
+/Users/stevenmota/Sandbox/hello_cargo/target/debug/deps/libtower_layer-a0dfe77caff9f120.rlib: /Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/lib.rs /Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/identity.rs /Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/layer_fn.rs /Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/stack.rs /Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/tuple.rs
+
+/Users/stevenmota/Sandbox/hello_cargo/target/debug/deps/tower_layer-a0dfe77caff9f120.d: /Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/lib.rs /Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/identity.rs /Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/layer_fn.rs /Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/stack.rs /Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/tuple.rs
+
+/Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/lib.rs:
+/Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/identity.rs:
+/Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/layer_fn.rs:
+/Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/stack.rs:
+/Users/stevenmota/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/tuple.rs:
